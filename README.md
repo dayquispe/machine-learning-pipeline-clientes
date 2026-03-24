@@ -107,4 +107,4 @@ O vídeo apresenta:
 ---
 
 ## 🔗 Repositório
-👉 *(inserir link do GitHub aqui)*
+👉 https://github.com/dayquispe/machine-learning-pipeline-clientes
