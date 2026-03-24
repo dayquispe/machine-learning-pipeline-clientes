@@ -102,7 +102,7 @@ O vídeo apresenta:
 👤 Apresentado por: **Nicolas Aquino**  
 📌 Todos os integrantes participaram do desenvolvimento do projeto  
 
-🔗 Link do vídeo: *(inserir aqui)*  
+🔗 Link do vídeo: https://www.youtube.com/watch?v=Pn-OrCInsjM
 
 ---
 
